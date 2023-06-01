@@ -1,0 +1,105 @@
+body{
+    color: white;
+    background-color: black;
+}
+.first{
+    display: flex;
+    height: 90px;
+    justify-content: space-around;
+}
+.cont1{
+    margin-left: 80px;
+    color: white;
+    font-size: 30px;
+
+}
+.cont2{
+display: flex;
+font-size: 20px;
+}
+ul{
+    gap: 70px;
+    font-size: 40px;
+    display: flex;
+    list-style: none;
+}
+.cont3{
+    gap: 60px;
+    margin-top: 30px;
+    display: flex;
+    font-size: 30px;
+}
+.butto{
+    border-radius: 20px;
+    background-color: skyblue;
+    padding: 11px 15px;
+}
+.log{
+    display: flex;
+    align-items: center
+}
+.middle{
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    height: 700px;
+}
+.train{
+    color:skyblue;
+    font-size: 40px;
+    text-align: center;
+}
+.head{
+    font-size: 90px;
+    text-align: center;
+}
+.lastjoin{
+    gap: 40px;
+    font-size: 40px;
+    margin-top: 40px;
+    display: flex;
+}
+.learn{
+    border: 2px solid skyblue;
+    display: flex;
+    padding: 20px;
+}
+.last{
+    font-size: 30px;
+    text-align: center;
+}
+.A{
+padding-left: 10%;
+}
+.B{
+display: flex;
+width: 90%;
+gap: 20px;
+margin-top: 70px;
+}
+.AA{
+    background-color: white;
+    height: 700px;
+    flex: 1;
+}
+.BB{
+    background-color: white;
+    height: 700px;
+    flex: 1;  
+}
+.CC{
+    background-color: white;
+    height: 700px;
+    flex: 1;
+}
+.DD{
+    margin: 40px;
+}
+.FF{
+    margin: 40px;
+}
+.GG{
+    margin: 40px;
+}
